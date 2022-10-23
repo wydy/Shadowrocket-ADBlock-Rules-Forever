@@ -80,13 +80,9 @@
 
 INTP | Jack of all trades | I use Arch BTW
 
-**[hfdem的博客](https://www.hfdem.net/)**
+**[Blog](https://blog.metaphorme.net/)**
 
-一位永远鼓励着我前进并给予我帮助的大佬的博客。
-
-**[我的博客](https://blog.metaphorme.net/)**
-
-我是个自由的开发者，喜欢生命和阳光。
+一个喜欢生命和阳光的孩子。
 
 
 ## 常见问题
@@ -266,7 +262,7 @@ INTP | Jack of all trades | I use Arch BTW
 
 仅包含去广告规则，不包含代理/直连规则。用于与其他规则联用。
 
-- 包含广告过滤，内网直连，DNS配置，URL复写等基础设置
+- 仅包含去广告规则，不包含代理/直连规则。无任何其他配置。
 
 规则地址：<https://wydy.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_ad_only.conf>
 
@@ -283,8 +279,7 @@ INTP | Jack of all trades | I use Arch BTW
 [Greatfire Analyzer](https://github.com/Loyalsoldier/cn-blocked-domain)   
 [乘风广告过滤规则](https://github.com/xinggsf/Adblock-Plus-Rule)  
 [EasyList China](https://adblockplus.org/)  
-[Peter Lowe 广告和隐私跟踪域名](https://pgl.yoyo.org/)  
-[Youtube 去广告脚本](https://github.com/Choler/Surge)  
+[Peter Lowe 广告和隐私跟踪域名](https://pgl.yoyo.org/)   
 
 ## Stargazers over time
 
