@@ -28,7 +28,7 @@ jobs:
         run: ./factory/auto_build.sh
         
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@4.1.7
         with:
           BRANCH: master
           FOLDER: .
