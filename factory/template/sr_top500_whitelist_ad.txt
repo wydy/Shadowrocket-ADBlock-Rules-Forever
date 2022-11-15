@@ -24,4 +24,6 @@ IP-CIDR,127.0.0.0/8,DIRECT
 
 {{manual_proxy}}
 
+{{gfwlist}}
+
 FINAL,PROXY
