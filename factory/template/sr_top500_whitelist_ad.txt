@@ -6,9 +6,11 @@
 # 包含广告过滤
 #
 
-
 {{ad}}
 {{manual_reject}}
+
+{{manual_proxy}}
+{{gfwlist}}
 
 {{top500_direct}}
 
@@ -21,9 +23,5 @@ IP-CIDR,192.168.0.0/16,DIRECT
 IP-CIDR,10.0.0.0/8,DIRECT
 IP-CIDR,172.16.0.0/12,DIRECT
 IP-CIDR,127.0.0.0/8,DIRECT
-
-{{manual_proxy}}
-
-{{gfwlist}}
 
 FINAL,PROXY
