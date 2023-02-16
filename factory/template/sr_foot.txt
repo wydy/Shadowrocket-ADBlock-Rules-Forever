@@ -4,5 +4,4 @@
 
 
 
-# By Moshel @ https://hzy.pw/
-# By Johnshall @ https://blog.metaphorme.net/
+# Made with Love from https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever
