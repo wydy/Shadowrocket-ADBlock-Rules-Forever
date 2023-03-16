@@ -443,3 +443,6 @@ openai.com
 
 # Paramount
 paramountplus.com
+
+# Bing
+bing.com
