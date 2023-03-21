@@ -407,3 +407,5 @@ browserleaks.org
 vpnunlimited.com
 whrq.net
 
+# New Bing
+bing.com
