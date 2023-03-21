@@ -9,8 +9,8 @@
 {{ad}}
 {{manual_reject}}
 
-{{manual_proxy}}
 {{gfwlist}}
+{{manual_proxy}}
 
 {{top500_direct}}
 

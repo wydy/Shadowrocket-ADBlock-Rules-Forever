@@ -3,11 +3,11 @@
 # 包含广告过滤
 #
 
-
-{{manual_proxy}}
+{{ad}}
 {{manual_reject}}
 
-{{ad}}
 {{gfwlist}}
+{{manual_proxy}}
+
 
 FINAL,direct
