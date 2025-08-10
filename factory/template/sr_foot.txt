@@ -1,0 +1,12 @@
+
+[Host]
+localhost = 127.0.0.1
+
+[URL Rewrite]
+^https?://(www.)?g.cn https://www.google.com 302
+^https?://(www.)?google.cn https://www.google.com 302
+
+
+
+
+# Made with Love from https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever
